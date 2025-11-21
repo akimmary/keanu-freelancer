@@ -60,7 +60,6 @@
   color: #FFFFFF;
   line-height: 28px;
   margin-top: 24px;
-
 }
 
 .about__info-button {
@@ -147,7 +146,6 @@
   gap: 16px;
 }
 
-
 .projects__card {
   display: flex;
   flex-direction: column;
@@ -160,7 +158,6 @@
   background-position: center;
   position: relative;
   border-radius: 6px;
-
 }
 
 .projects__card-subtitle {
@@ -170,7 +167,6 @@
   z-index: 1;
   line-height: 28px;
 }
-
 
 .projects__button {
   background-color: #EC1F46;
@@ -236,7 +232,6 @@
   overflow: hidden;
 }
 
-
 .gallery__play-icon {
   position: absolute;
   top: 9px;
@@ -244,7 +239,6 @@
   width: 15px;
   z-index: 1;
 }
-
 
 .gallery__video--laptop {
   background-image: url(../images/gallery06.png);
